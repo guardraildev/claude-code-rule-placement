@@ -2,6 +2,8 @@
 
 One rule, "never commit on the main branch", placed in four different places. Then the same three requests, five runs each, counting how often the commit stayed off `main`.
 
+Video walkthrough: https://youtu.be/OCKHqODOSlw (public from 2026-11-18)
+
 ## Results
 
 Runs where no commit landed on `main`, out of 5. Claude Code 2.1.308, model `claude-opus-5-5`, `claude -p`, 2026-11-12.
